@@ -5,7 +5,7 @@ Use this as a practice ground, and enjoy contributing to projects you create wit
 
 Many students have gained real-world experience **working in teams** by collaborating on these projects.
 
----
+---  
 
 ## 🚀 A Guide to Get Started (formerly the 4-Step Guide)
 
